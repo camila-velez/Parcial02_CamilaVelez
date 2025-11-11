@@ -47,7 +47,7 @@ El objetivo del ejercicio es aplicar los principios básicos de los **microservi
 {
   "numero_recibido": 5,
   "factorial": 120,
-  "etiqueta": "par"
+  "etiqueta": "impar"
 }
 ```
 
